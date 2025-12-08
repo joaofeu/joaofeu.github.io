@@ -8,5 +8,5 @@
 "TOTAL_MEMORY": 268435456,
 "splashScreenStyle": "Dark",
 "backgroundColor": "#222C36",
-"streamingAssetsUrl": "../StreamingAssets/"
+"streamingAssetsUrl": "/StreamingAssets/"
 }

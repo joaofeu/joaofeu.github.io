@@ -4,21 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | Caixa Mágica</title>
-    <link rel="shortcut icon" href="/TemplateData/favicon.ico">
-    <link rel="stylesheet" href="/TemplateData/style.css">
-    <script src="/TemplateData/UnityProgress.js"></script>  
-    <script src="/Build/UnityLoader.js"></script>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>  
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/caixa-magica-2.json", {onProgress: UnityProgress});
+    </script>
   </head>
   <body>
     <div class="webgl-content">
-	<iframe
-	  src="../index.html"
-	  width="960"
-	  height="600"
-	  frameborder="0"
-	  allowfullscreen
-	  style="border:0;">
-	</iframe>
       <div id="gameContainer" style="width: 960px; height: 600px"></div>
       <div class="footer">
         <div class="webgl-logo"></div>

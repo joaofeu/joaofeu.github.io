@@ -8,16 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <style>
-	body {
-	  margin: auto;
-	  padding: 0;
-	}
-	
-	.unity-wrapper {
+	.webgl-content {
 	  overflow: hidden;
 	}
 	
-	iframe.unity-fix {
+	.webgl-content iframe.unity-fix {
 	  width: 960px;
 	  height: 600px;
 	  border: 0;
@@ -27,6 +22,7 @@
 </head>
 
 <body>
+  <div class="webgl-content">
     <iframe
 	  class="unity-fix"
       src="/index.html"
@@ -34,5 +30,6 @@
       height="600"
       loading="lazy">
     </iframe>
+  </div>
 </body>
 </html>

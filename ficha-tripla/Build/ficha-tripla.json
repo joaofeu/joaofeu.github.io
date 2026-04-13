@@ -1,7 +1,7 @@
 {
 "companyName": "100NomeJogos",
 "productName": "Ficha Tripla",
-"productVersion": "2.0",
+"productVersion": "2.1",
 "dataUrl": "ficha-tripla.data.unityweb",
 "wasmCodeUrl": "ficha-tripla.wasm.code.unityweb",
 "wasmFrameworkUrl": "ficha-tripla.wasm.framework.unityweb",

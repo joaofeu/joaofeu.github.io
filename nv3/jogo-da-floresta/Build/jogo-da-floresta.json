@@ -1,0 +1,11 @@
+{
+"companyName": "AMV_ULHT",
+"productName": "Jogo da Floresta",
+"dataUrl": "jogo-da-floresta.data.unityweb",
+"asmCodeUrl": "jogo-da-floresta.asm.code.unityweb",
+"asmMemoryUrl": "jogo-da-floresta.asm.memory.unityweb",
+"asmFrameworkUrl": "jogo-da-floresta.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

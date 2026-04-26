@@ -1,0 +1,11 @@
+{
+"companyName": "EducacaoAcessivel",
+"productName": "Caixa Mágica",
+"dataUrl": "caixa-magica.data.unityweb",
+"asmCodeUrl": "caixa-magica.asm.code.unityweb",
+"asmMemoryUrl": "caixa-magica.asm.memory.unityweb",
+"asmFrameworkUrl": "caixa-magica.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

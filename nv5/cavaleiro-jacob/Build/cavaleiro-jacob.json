@@ -1,0 +1,11 @@
+{
+"companyName": "Chora Mais",
+"productName": "Jacob",
+"dataUrl": "cavaleiro-jacob.data.unityweb",
+"asmCodeUrl": "cavaleiro-jacob.asm.code.unityweb",
+"asmMemoryUrl": "cavaleiro-jacob.asm.memory.unityweb",
+"asmFrameworkUrl": "cavaleiro-jacob.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
